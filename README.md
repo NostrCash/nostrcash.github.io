@@ -1,0 +1,2 @@
+nostr.cash | 
+nostr: npub12qpvkjr6dcp60qwjpdx3zklup6t2hauq9kd6fmjf6adqyvdq6mvqv2v8cz
